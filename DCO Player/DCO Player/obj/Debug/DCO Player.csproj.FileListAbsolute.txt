@@ -1,0 +1,229 @@
+C:\Users\Влад\source\repos\DCO Player\DCO Player\bin\Debug\DCO Player.exe.config
+C:\Users\Влад\source\repos\DCO Player\DCO Player\bin\Debug\DCO Player.exe
+C:\Users\Влад\source\repos\DCO Player\DCO Player\bin\Debug\DCO Player.pdb
+C:\Users\Влад\source\repos\DCO Player\DCO Player\obj\Debug\MainWindow.g.cs
+C:\Users\Влад\source\repos\DCO Player\DCO Player\obj\Debug\App.g.cs
+C:\Users\Влад\source\repos\DCO Player\DCO Player\obj\Debug\DCO Player_MarkupCompile.cache
+C:\Users\Влад\source\repos\DCO Player\DCO Player\obj\Debug\DCO Player_MarkupCompile.lref
+C:\Users\Влад\source\repos\DCO Player\DCO Player\obj\Debug\MainWindow.baml
+C:\Users\Влад\source\repos\DCO Player\DCO Player\obj\Debug\DCO Player.g.resources
+C:\Users\Влад\source\repos\DCO Player\DCO Player\obj\Debug\DCO_Player.Properties.Resources.resources
+C:\Users\Влад\source\repos\DCO Player\DCO Player\obj\Debug\DCO Player.csproj.GenerateResource.cache
+C:\Users\Влад\source\repos\DCO Player\DCO Player\obj\Debug\DCO Player.csproj.CoreCompileInputs.cache
+C:\Users\Влад\source\repos\DCO Player\DCO Player\obj\Debug\DCO Player.exe
+C:\Users\Влад\source\repos\DCO Player\DCO Player\obj\Debug\DCO Player.pdb
+C:\Users\Влад\source\repos\DCO Player\DCO Player\obj\Debug\DCO Player.csprojAssemblyReference.cache
+C:\Users\Влад\source\repos\DCO Player\DCO Player\obj\Debug\App.baml
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\bin\Debug\DCO Player.exe.config
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\bin\Debug\DCO Player.exe
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\bin\Debug\DCO Player.pdb
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\MainWindow.g.cs
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\App.g.cs
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\DCO Player_MarkupCompile.cache
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\DCO Player_MarkupCompile.lref
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\App.baml
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\MainWindow.baml
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\DCO Player.g.resources
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\DCO_Player.Properties.Resources.resources
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\DCO Player.csproj.GenerateResource.cache
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\DCO Player.csproj.CoreCompileInputs.cache
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\DCO Player.exe
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\DCO Player.pdb
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\Radio.g.cs
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\Radio.baml
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\My playlists.g.cs
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\My playlists.baml
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\Shop.g.cs
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\Shop.baml
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\Albums.g.cs
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\Albums.baml
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\Countries.g.cs
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\Countries.baml
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\Splash.g.cs
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\Splash.baml
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\bin\Debug\WpfAnimatedGif.dll
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\bin\Debug\WpfAnimatedGif.pdb
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\bin\Debug\WpfAnimatedGif.xml
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\DCO Player.csproj.CopyComplete
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\RadioControl.g.cs
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\RadioControl.baml
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\RadioIn.g.cs
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\RadioIn.baml
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\RadioPlaylistControl.g.cs
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\RadioPlaylistControl.baml
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\Log_In.g.cs
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\Sign_Up.g.cs
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\Start.g.cs
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\Log_In.baml
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\Sign_Up.baml
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\Start.baml
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\Artist.g.cs
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\Artist.baml
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\Artists.g.cs
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\Artists.baml
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\AlbumControl.g.cs
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\AlbumControl.baml
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\CountryAlbums.g.cs
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\CountryAlbums.baml
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\Album.g.cs
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\Composition.g.cs
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\Album.baml
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\Composition.baml
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\CreatePlaylist.g.cs
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\PlaylistControl.g.cs
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\CreatePlaylist.baml
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\PlaylistControl.baml
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\DCO Player_Content.g.cs
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\Statictics.g.cs
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\Statictics.baml
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\Search.g.cs
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\Search.baml
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\Settings.g.cs
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\Settings.baml
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\bin\Debug\System.ValueTuple.dll
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\bin\Debug\System.ValueTuple.xml
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\Playlist.g.cs
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\Playlist.baml
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Debug\DCO Player.csprojAssemblyReference.cache
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\bin\Debug\DCO Player.exe.config
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\bin\Debug\DCO Player.exe
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\bin\Debug\DCO Player.pdb
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\bin\Debug\System.ValueTuple.dll
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\bin\Debug\WpfAnimatedGif.dll
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\bin\Debug\System.ValueTuple.xml
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\bin\Debug\WpfAnimatedGif.pdb
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\bin\Debug\WpfAnimatedGif.xml
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\DCO Player.csprojAssemblyReference.cache
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Album.g.cs
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\AlbumControl.g.cs
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Albums.g.cs
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Artist.g.cs
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Artists.g.cs
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Composition.g.cs
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Countries.g.cs
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\CountryAlbums.g.cs
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\CreatePlaylist.g.cs
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Log_In.g.cs
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\MainWindow.g.cs
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\My playlists.g.cs
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Playlist.g.cs
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\PlaylistControl.g.cs
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Radio.g.cs
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\RadioControl.g.cs
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\RadioIn.g.cs
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\RadioPlaylistControl.g.cs
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Search.g.cs
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Settings.g.cs
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Shop.g.cs
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Sign_Up.g.cs
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Splash.g.cs
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Start.g.cs
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Statictics.g.cs
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\App.g.cs
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\DCO Player_Content.g.cs
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\DCO Player_MarkupCompile.cache
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\DCO Player_MarkupCompile.lref
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\App.baml
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Album.baml
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\AlbumControl.baml
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Albums.baml
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Artist.baml
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Artists.baml
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Composition.baml
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Countries.baml
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\CountryAlbums.baml
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\CreatePlaylist.baml
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Log_In.baml
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\MainWindow.baml
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\My playlists.baml
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Playlist.baml
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\PlaylistControl.baml
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Radio.baml
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\RadioControl.baml
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\RadioIn.baml
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\RadioPlaylistControl.baml
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Search.baml
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Settings.baml
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Shop.baml
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Sign_Up.baml
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Splash.baml
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Start.baml
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Statictics.baml
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\DCO Player.g.resources
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\DCO_Player.Properties.Resources.resources
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\DCO Player.csproj.GenerateResource.cache
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\DCO Player.csproj.CoreCompileInputs.cache
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\DCO Player.csproj.CopyComplete
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\DCO Player.exe
+C:\Users\Влад\Desktop\4 семестр\КП\DCO Player\DCO Player\obj\Debug\DCO Player.pdb
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\bin\Debug\DCO Player.exe.config
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\bin\Debug\DCO Player.exe
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\bin\Debug\DCO Player.pdb
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\bin\Debug\System.ValueTuple.dll
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\bin\Debug\WpfAnimatedGif.dll
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\bin\Debug\System.ValueTuple.xml
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\bin\Debug\WpfAnimatedGif.pdb
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\bin\Debug\WpfAnimatedGif.xml
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\DCO Player.csprojAssemblyReference.cache
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Album.g.cs
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\AlbumControl.g.cs
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Albums.g.cs
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Artist.g.cs
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Artists.g.cs
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Composition.g.cs
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Countries.g.cs
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\CountryAlbums.g.cs
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\CreatePlaylist.g.cs
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Log_In.g.cs
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\MainWindow.g.cs
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\My playlists.g.cs
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Playlist.g.cs
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\PlaylistControl.g.cs
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Radio.g.cs
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\RadioControl.g.cs
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\RadioIn.g.cs
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\RadioPlaylistControl.g.cs
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Search.g.cs
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Settings.g.cs
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Shop.g.cs
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Sign_Up.g.cs
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Splash.g.cs
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Start.g.cs
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Statictics.g.cs
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\App.g.cs
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\DCO Player_Content.g.cs
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\DCO Player_MarkupCompile.cache
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\DCO Player_MarkupCompile.lref
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\App.baml
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Album.baml
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\AlbumControl.baml
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Albums.baml
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Artist.baml
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Artists.baml
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Composition.baml
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Countries.baml
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\CountryAlbums.baml
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\CreatePlaylist.baml
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Log_In.baml
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\MainWindow.baml
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\My playlists.baml
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Playlist.baml
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\PlaylistControl.baml
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Radio.baml
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\RadioControl.baml
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\RadioIn.baml
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\RadioPlaylistControl.baml
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Search.baml
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Settings.baml
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Shop.baml
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Sign_Up.baml
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Splash.baml
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Start.baml
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\Statictics.baml
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\DCO Player.g.resources
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\DCO_Player.Properties.Resources.resources
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\DCO Player.csproj.GenerateResource.cache
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\DCO Player.csproj.CoreCompileInputs.cache
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\DCO Player.csproj.CopyComplete
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\DCO Player.exe
+C:\Users\Влад\Desktop\1, 2, 3 и 4 семестры\4 семестр\КП\DCO Player\DCO Player\obj\Debug\DCO Player.pdb

@@ -1,0 +1,30 @@
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Release\DCO Player.csprojAssemblyReference.cache
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Release\Album.g.cs
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Release\AlbumControl.g.cs
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Release\Albums.g.cs
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Release\Artist.g.cs
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Release\Artists.g.cs
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Release\Composition.g.cs
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Release\Countries.g.cs
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Release\CountryAlbums.g.cs
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Release\CreatePlaylist.g.cs
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Release\Log_In.g.cs
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Release\MainWindow.g.cs
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Release\My playlists.g.cs
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Release\Playlist.g.cs
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Release\PlaylistControl.g.cs
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Release\Radio.g.cs
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Release\RadioControl.g.cs
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Release\RadioIn.g.cs
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Release\RadioPlaylistControl.g.cs
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Release\Search.g.cs
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Release\Settings.g.cs
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Release\Shop.g.cs
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Release\Sign_Up.g.cs
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Release\Splash.g.cs
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Release\Start.g.cs
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Release\Statictics.g.cs
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Release\App.g.cs
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Release\DCO Player_Content.g.cs
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Release\DCO Player_MarkupCompile.cache
+C:\Users\Влад\Desktop\КП\DCO Player\DCO Player\obj\Release\DCO Player_MarkupCompile.lref

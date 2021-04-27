@@ -1,0 +1,405 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0AEC2003-B2F2-4371-9725-A59845D30728}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>DCO_Player</RootNamespace>
+    <AssemblyName>DCO Player</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <Win32Resource>
+    </Win32Resource>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup>
+    <Reference Include="Bass.Net, Version=2.4.13.2, Culture=neutral, PublicKeyToken=b7566c273e6ef480, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Plugins\Bass.Net.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\netstandard1.0\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="WpfAnimatedGif, Version=2.0.0.0, Culture=neutral, PublicKeyToken=9e7cd3b544a090dc, processorArchitecture=MSIL">
+      <HintPath>..\packages\WpfAnimatedGif.2.0.0\lib\net40\WpfAnimatedGif.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="Album.xaml.cs">
+      <DependentUpon>Album.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AlbumControl.xaml.cs">
+      <DependentUpon>AlbumControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Albums.xaml.cs">
+      <DependentUpon>Albums.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Artist.xaml.cs">
+      <DependentUpon>Artist.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Artists.xaml.cs">
+      <DependentUpon>Artists.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Composition.xaml.cs">
+      <DependentUpon>Composition.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Countries.xaml.cs">
+      <DependentUpon>Countries.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CountryAlbums.xaml.cs">
+      <DependentUpon>CountryAlbums.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CreatePlaylist.xaml.cs">
+      <DependentUpon>CreatePlaylist.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Log_In.xaml.cs">
+      <DependentUpon>Log_In.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MusicStream.cs" />
+    <Compile Include="My playlists.xaml.cs">
+      <DependentUpon>My playlists.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Playlist.xaml.cs">
+      <DependentUpon>Playlist.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PlaylistControl.xaml.cs">
+      <DependentUpon>PlaylistControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Profile.cs" />
+    <Compile Include="Radio.xaml.cs">
+      <DependentUpon>Radio.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="RadioControl.xaml.cs">
+      <DependentUpon>RadioControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="RadioIn.xaml.cs">
+      <DependentUpon>RadioIn.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="RadioPlaylistControl.xaml.cs">
+      <DependentUpon>RadioPlaylistControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Search.xaml.cs">
+      <DependentUpon>Search.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.xaml.cs">
+      <DependentUpon>Settings.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Shop.xaml.cs">
+      <DependentUpon>Shop.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Sign_Up.xaml.cs">
+      <DependentUpon>Sign_Up.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Splash.xaml.cs">
+      <DependentUpon>Splash.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Start.xaml.cs">
+      <DependentUpon>Start.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Statictics.xaml.cs">
+      <DependentUpon>Statictics.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Vars.cs" />
+    <Page Include="Album.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AlbumControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Albums.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Artist.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Artists.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Composition.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Countries.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="CountryAlbums.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="CreatePlaylist.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Log_In.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="My playlists.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Playlist.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PlaylistControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Radio.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="RadioControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="RadioIn.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="RadioPlaylistControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Search.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Settings.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Shop.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Sign_Up.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Splash.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Start.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Statictics.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Profile\Profile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Splash\Uond.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="logo.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Photo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Flag\Albania.png" />
+    <Resource Include="Images\Flag\Armenia.png" />
+    <Resource Include="Images\Flag\Austria.png" />
+    <Resource Include="Images\Flag\Belarus.png" />
+    <Resource Include="Images\Flag\Belgium.png" />
+    <Resource Include="Images\Flag\Bosnia_and_Herzegovina.png" />
+    <Resource Include="Images\Flag\Bulgaria.png" />
+    <Resource Include="Images\Flag\Croatia.png" />
+    <Resource Include="Images\Flag\Czech_Republic.png" />
+    <Resource Include="Images\Flag\Denmark.png" />
+    <Resource Include="Images\Flag\Estonia.png" />
+    <Resource Include="Images\Flag\Finland.png" />
+    <Resource Include="Images\Flag\France.png" />
+    <Resource Include="Images\Flag\Germany.png" />
+    <Resource Include="Images\Flag\Greece.png" />
+    <Resource Include="Images\Flag\Hungary.png" />
+    <Resource Include="Images\Flag\Iceland.png" />
+    <Resource Include="Images\Flag\Ireland.png" />
+    <Resource Include="Images\Flag\Italy.png" />
+    <Resource Include="Images\Flag\Kazakhstan.png" />
+    <Resource Include="Images\Flag\Latvia.png" />
+    <Resource Include="Images\Flag\Lithuania.png" />
+    <Resource Include="Images\Flag\Moldova.png" />
+    <Resource Include="Images\Flag\Netherlands.png" />
+    <Resource Include="Images\Flag\North_Macedonia.png" />
+    <Resource Include="Images\Flag\Norway.png" />
+    <Resource Include="Images\Flag\Poland.png" />
+    <Resource Include="Images\Flag\Portugal.png" />
+    <Resource Include="Images\Flag\Romania.png" />
+    <Resource Include="Images\Flag\Serbia.png" />
+    <Resource Include="Images\Flag\Slovakia.png" />
+    <Resource Include="Images\Flag\Slovenia.png" />
+    <Resource Include="Images\Flag\Spain.png" />
+    <Resource Include="Images\Flag\Sweden.png" />
+    <Resource Include="Images\Flag\Switzerland.png" />
+    <Resource Include="Images\Flag\Ukraine.png" />
+    <Resource Include="Images\Flag\UK.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Flag\Russia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Icon\Albania.png" />
+    <Resource Include="Images\Icon\Armenia.png" />
+    <Resource Include="Images\Icon\Austria.png" />
+    <Resource Include="Images\Icon\Belarus.png" />
+    <Resource Include="Images\Icon\Belgium.png" />
+    <Resource Include="Images\Icon\Bosnia_and_Herzegovina.png" />
+    <Resource Include="Images\Icon\Bulgaria.png" />
+    <Resource Include="Images\Icon\Croatia.png" />
+    <Resource Include="Images\Icon\Czech_Republic.png" />
+    <Resource Include="Images\Icon\Denmark.png" />
+    <Resource Include="Images\Icon\Estonia.png" />
+    <Resource Include="Images\Icon\Finland.png" />
+    <Resource Include="Images\Icon\France.png" />
+    <Resource Include="Images\Icon\Germany.png" />
+    <Resource Include="Images\Icon\Greece.png" />
+    <Resource Include="Images\Icon\Hungary.png" />
+    <Resource Include="Images\Icon\Iceland.png" />
+    <Resource Include="Images\Icon\Ireland.png" />
+    <Resource Include="Images\Icon\Italy.png" />
+    <Resource Include="Images\Icon\Kazakhstan.png" />
+    <Resource Include="Images\Icon\Latvia.png" />
+    <Resource Include="Images\Icon\Lithuania.png" />
+    <Resource Include="Images\Icon\Moldova.png" />
+    <Resource Include="Images\Icon\Netherlands.png" />
+    <Resource Include="Images\Icon\North_Macedonia.png" />
+    <Resource Include="Images\Icon\Norway.png" />
+    <Resource Include="Images\Icon\Poland.png" />
+    <Resource Include="Images\Icon\Portugal.png" />
+    <Resource Include="Images\Icon\Romania.png" />
+    <Resource Include="Images\Icon\Russia.png" />
+    <Resource Include="Images\Icon\Serbia.png" />
+    <Resource Include="Images\Icon\Slovakia.png" />
+    <Resource Include="Images\Icon\Slovenia.png" />
+    <Resource Include="Images\Icon\Spain.png" />
+    <Resource Include="Images\Icon\Sweden.png" />
+    <Resource Include="Images\Icon\Switzerland.png" />
+    <Resource Include="Images\Icon\Ukraine.png" />
+    <Resource Include="Images\Icon\United_Kingdom.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\playlist.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\AddPlaylistNew.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\AddPlaylist.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bass.dll" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
